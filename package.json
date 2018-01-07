@@ -1,17 +1,15 @@
 {
   "name": "burguer",
   "version": "1.0.0",
-  "description": "",
+  "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/girafa4/burguer.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -25,5 +23,8 @@
     "handlebars": "^4.0.11",
     "method-override": "^2.3.10",
     "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
   }
 }
